@@ -1,0 +1,394 @@
+{
+  "basics": {
+    "name": "Julian Mesa Restrepo",
+    "label": "Systems engineer with 8 year’s experience providing technical support in various areas including technological infrastructure, databases and different applications.",
+    "image": "/me.webp",
+    "email": "miduga@gmail.com",
+    "phone": "+57 310 825 04 12",
+    "url": "https://midu.dev",
+    "summary": "Hardworking Systems engineer with 8 year’s experience providing technical support in various areas including technological infrastructure, databases and different applications. Strong knowledge in the development of web pages, computer systems, data analysis, MySQL, SQL Server. I am also proficient in advanced Excel, remote support, and have the ability to self-learn, to be innovative, work as a team member or independently. I am a native Spanish speaker and level C1 English.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Medellín",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [{
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/julian-mesa-restrepo/"
+      },
+      {
+        "network": "GitHub",
+        "username": "julian0808",
+        "url": "https://github.com/julian0808"
+      }
+    ]
+  },
+  "work": [{
+      "name": "ABATECH",
+      "position": "IT Specialist",
+      "startDate": "2023-01-02",
+      "endDate": "2024-09-01",
+      "summary": "Analyze and solve tickets in Jira. Manage Okta Adobe admin. Manage employees emails through Okta. Handle office 365 platforms + SharePoint. IT support for: Windows, macOS, Linux Ubuntu. and iPads (using Teams).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Kyndryl",
+      "position": "DBA",
+      "startDate": "2022-01-05",
+      "endDate": "2023-01-05",
+      "summary": "Administer all databases of all Sudamericana servers. Manage Auto ticket platform (DBA Backlog). Examined Suramericanas’s requirements and incidents platform. Daily Compilation of Oracle autodb from Monday to Friday. Solve errors in the application, using Oracle, SQL Server, MySQL and generating data backup. Provided remote technical support to all Sudamericana Severs (Oracle, SQL Server, MySQL).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Office of the Mayor of Medel",
+      "position": "Systems Analyst",
+      "startDate": "2018-01-08",
+      "endDate": "2021-01-08",
+      "summary": "Installation and configuration of Internet information services (IIS). Monitor family guidance counsellors weekly backup using theFileZilla tool. Provide remote technical IT support to 120 managers.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Institución Universitaria Salazar y Herrera - Colombia",
+    "area": "Systems Engineer",
+    "studyType": "Bachelor",
+    "startDate": "2017-01-01",
+    "endDate": "2021-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "education1": [{
+    "institution": "Instituto de Artes – ideartes - Colombia",
+    "area": "Technical Graphic Design",
+    "studyType": "Bachelor",
+    "startDate": "2013-01-01",
+    "endDate": "2015-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+
+    {
+      "name": "Bootstrap",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "SQLServer",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+
+    {
+      "name": "Netlify",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [{
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+      "name": "Boostrap Responsive Website",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://bootstrap-responsive-website1.netlify.app/"
+    },
+    {
+      "name": "Pure Boostrap Website",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://pure-bootstrap-website.netlify.app/"
+    },
+    {
+      "name": "Photox Bootstrap",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://photox-bootstrap.netlify.app/"
+    },
+    {
+      "name": "Bootstrap Website II",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://bootstrap-website-ii.netlify.app/"
+    },
+    {
+      "name": "Bootstrap Blog",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://bootstrap-blog1.netlify.app/"
+    },
+    {
+      "name": "Bootstrap Pinterest Image Gallery",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://bootstrap-pinterest-image-gallery.netlify.app/"
+    },
+    {
+      "name": "Admin Dashboard",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://admin-dashboardj.netlify.app/"
+    },
+    {
+      "name": "Agency Website",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://agencywebsitej.netlify.app/"
+    },
+
+    {
+      "name": "Admin Dahboard Dark Mode",
+      "isActive": true,
+      "description": "A website that I developed using bootstrap",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://responsive-admin-dahboard-dark-mode.netlify.app/"
+    }
+  ],
+  "python": [
+
+    {
+      "name": "Calculator",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/3SimpleGUICalculatorinPython",
+      "github": "https://github.com/julian0808/3SimpleGUICalculatorinPython"
+    },
+    {
+      "name": "HangmanInPython",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/4_HangmanInPython",
+      "github": "https://github.com/julian0808/4_HangmanInPython"
+    },
+    {
+      "name": "Snake Game Python",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/5Pythonsnakegame",
+      "github": "https://github.com/julian0808/5Pythonsnakegame"
+    },
+    {
+      "name": "GameSpaceWar Python",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/6PythonGameSpaceWa",
+      "github": "https://github.com/julian0808/6PythonGameSpaceWar"
+    },
+    {
+      "name": "RockPaperScissor",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/7RockPaperScissorusingComputerVisionOpenCVPyth",
+      "github": "https://github.com/julian0808/7RockPaperScissorusingComputerVisionOpenCVPython"
+    }
+  ],
+  "pyhon_web_scpraping": [
+
+    {
+      "name": "Web-Scraping-in-PythonCourse",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/Web-Scraping-in-Python-BeautifulSoup-Selenium-Scrapy-2023-",
+      "github": "https://github.com/julian0808/Web-Scraping-in-Python-BeautifulSoup-Selenium-Scrapy-2023-"
+    },
+    {
+      "name": "Web-Scraping-in-PythonCourse",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/Web-Scraping-in-Python-BeautifulSoup-Selenium-Scrapy-2023",
+      "github": "https://github.com/julian0808/Web-Scraping-in-Python-BeautifulSoup-Selenium-Scrapy-2023-"
+    }
+  ],
+  "django": [
+
+    {
+      "name": "Django course 9 projects",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/DjangoMasterclassBuild9RealWorldDjangoProjects",
+      "github": "https://github.com/julian0808/DjangoMasterclassBuild9RealWorldDjangoProjects"
+    },
+    {
+      "name": "Django E-Commerce",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://github.com/julian0808/DjangoEcommerceWebsiteStripe",
+      "github": "https://github.com/julian0808/DjangoEcommerceWebsiteStripe"
+    }
+  ]
+}
