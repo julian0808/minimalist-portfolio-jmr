@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
-import vercel from '@astrojs/vercel/serverless';
+import preact from '@astrojs/preact';
+import netlify from '@astrojs/netlify/functions';
 
+// https://astro.build/config
 export default defineConfig({
-  // ...
   output: 'server',
-  adapter: vercel(),
+  adapter: netlify({}),
+  // Enable Preact to support Preact JSX components.
+  integrations: [preact()],
 });
