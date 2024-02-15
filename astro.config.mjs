@@ -1,14 +1,9 @@
+// astro.config.mjs
 import { defineConfig } from 'astro/config';
-import vercel from '@astrojs/vercel/serverless';
-
-
-// https://astro.build/config
-
+import vercel from '@astrojs/vercel/static';
 
 export default defineConfig({
-
-output: 'server',
-  adapter: vercel(),
-
-
+  adapter: vercel({
+    analytics: true
+  }),
 });
